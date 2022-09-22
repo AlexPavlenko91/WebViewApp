@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WebViewApp</string>
+    <string name="privacy_policy">
+        At Meta, we want you to understand what information we collect, how we use it, and how we share it. Therefore, we recommend that you familiarize yourself with our Privacy Policy. This will help you use Meta products in a way that works for you.
+In the Privacy Policy, we explain how we collect, use, store and share information. We also tell you about your rights. Each section of the Policy contains useful examples and simple wording to make it easier to understand how we work. We\'ve also included links to resources where you can learn more about the privacy aspects that interest you.
+It\'s important to us that you know how to control your privacy, so we\'ll also show you where you can manage your information in the settings of the Meta products you use. You can update these settings as you wish.
+    </string>
+    <string name="acceptPolicy" translatable="false">acceptPolicy</string>
+    <string name="lastUrl" translatable="false">lastUrl</string>
+    <string name="domain" translatable="false">https://www.facebook.com</string>
+    <string name="accept">Accept the conditions</string>
+    <string name="exit">Exit</string>
+    <string name="noConnection">Something is wrong with the internet connection</string>
+</resources>
